@@ -1,3 +1,5 @@
+## Project Title
+Machine Learning Based Prediction of Voltage and Trnsmission Congestion Risks When Increasing Renewable Energy Penetration: A study of the Synthetic Hawaii 37-Bus Power System.
 ## Dataset Attribution
 
 This project uses the Hawaii 37-Bus Synthetic Power System developed and made publicly available by researchers at Texas A&M University through the Electric Grid Test Case Repository.
